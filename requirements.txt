@@ -1,0 +1,12 @@
+# TANMIA SCRAPER v1.9
+streamlit
+pandas
+openpyxl
+requests
+beautifulsoup4
+lxml
+pdfplumber
+python-docx
+google-generativeai
+antiword
+catdoc
