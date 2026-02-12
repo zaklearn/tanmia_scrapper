@@ -9,4 +9,3 @@ pdfplumber
 python-docx
 google-generativeai
 antiword
-catdoc
